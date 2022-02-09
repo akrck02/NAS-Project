@@ -62,7 +62,7 @@ I didn’t change the license for this example but is highly recommendable to ch
 
 I create the project directories with the following structure:
 
-```json
+```text
 /                   # our base path 
 /src/               # the source code
 /media/             # the files to be used by the script
@@ -88,7 +88,7 @@ This one contains the repositories to be cloned and updated for each user / org.
 ```json
 {
   "akrck02": [
-		"Github-backup-script",
+	  "Github-backup-script",
 	  "Valhalla"
 	], 
 	"Nightlight-studios" : ["io-world"]
