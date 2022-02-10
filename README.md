@@ -6,7 +6,7 @@ Hey there! I’m starting this little project to set up a NAS (Network attached 
 
 I actually don’t need any NAS, but I have an old Acer Aspire with the following specs.
 
-![Untitled](NAS%20Project%201cfd9fcc90cb4fc48c8fca9f61ec8824/Untitled.png)
+![Untitled](pages/main/ubuntu-screen.png)
 
 And I will bring a new life to this old engine, capable to do some magic.
 
@@ -38,9 +38,9 @@ Yes, I like dark mode UI. Adapta seems simple enough to run well on a 10 year ol
 sudo apt-add-repository ppa:tista/adapta 
 sudo apt update
 sudo apt install adapta-gtk-theme
-```
+``` 
 
-![Screenshot at 2022-02-09 13-32-04.png](NAS%20Project%201cfd9fcc90cb4fc48c8fca9f61ec8824/Screenshot_at_2022-02-09_13-32-04.png)
+![Ubuntu desktop](pages/main/ubuntu-desktop.png)
 
 # Manage over the network
 
@@ -85,8 +85,10 @@ So now you can access the NAS with the following friendly hostname
 ssh nas-admin@portable-nas
 ```
 
-[Configuring Network ](https://www.notion.so/Configuring-Network-e3a98372edc54d64aa1e3420ebf35758)
+[Configuring Network](/pages/1.ConfiguringNetwork.md)
 
-[Storage](https://www.notion.so/Storage-debf8cbf73a84c72a9838ba3f4240008)
+[Storage](/pages/2.Storage.md)
 
-[Github backup ](https://www.notion.so/Github-backup-7ef35fbc0f084df7a9d7ac60b8dd994b)
+[Github backup](/pages/3.GithubBackup.md)
+
+[Github backup: Update 1](/pages/GithubBackup/1.Scriptv1.0.md)
