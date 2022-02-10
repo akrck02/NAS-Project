@@ -85,8 +85,8 @@ So now you can access the NAS with the following friendly hostname
 ssh nas-admin@portable-nas
 ```
 
-[Configuring Network ](NAS%20Project%201cfd9fcc90cb4fc48c8fca9f61ec8824/Configuring%20Network%20e3a98372edc54d64aa1e3420ebf35758.md)
+[Configuring Network ](https://www.notion.so/Configuring-Network-e3a98372edc54d64aa1e3420ebf35758)
 
-[Storage](NAS%20Project%201cfd9fcc90cb4fc48c8fca9f61ec8824/Storage%20debf8cbf73a84c72a9838ba3f4240008.md)
+[Storage](https://www.notion.so/Storage-debf8cbf73a84c72a9838ba3f4240008)
 
-[Github backup ](NAS%20Project%201cfd9fcc90cb4fc48c8fca9f61ec8824/Github%20backup%207ef35fbc0f084df7a9d7ac60b8dd994b.md)
+[Github backup ](https://www.notion.so/Github-backup-7ef35fbc0f084df7a9d7ac60b8dd994b)
